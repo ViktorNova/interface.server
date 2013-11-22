@@ -5,4 +5,10 @@
     "show":false,
     "toolbar":false
   }
+  , "dependencies": {
+      "ws": "latest"
+    , "connect": "latest"
+    , "midi": "latest"
+    , "omgosc": "latest"
+  }
 }
